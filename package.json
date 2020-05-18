@@ -1,0 +1,8 @@
+{
+  "name": "js-9mkzc3",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "pspdfkit": "^2020.2.3"
+  }
+}
